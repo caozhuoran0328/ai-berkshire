@@ -1,6 +1,6 @@
 {
-  "count": 2501,
-  "published": 2291,
+  "count": 2506,
+  "published": 2296,
   "drafts": 210,
   "reports": [
     {
@@ -107,6 +107,61 @@
       "path": "reports/保变电气/01-商业模式分析-段永平视角.md",
       "bucket": "公司",
       "group": "保变电气",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "中国卫通（601698.SH）投资研究报告 — 四大师团队综合研判",
+      "path": "reports/中国卫通/最终报告.md",
+      "bucket": "公司",
+      "group": "中国卫通",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "中国卫通（601698.SH）风险与管理层评估",
+      "path": "reports/中国卫通/04-风险管理层评估-李录视角.md",
+      "bucket": "公司",
+      "group": "中国卫通",
+      "series": "",
+      "type": "组织管理",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "中国卫通（601698.SH）行业与竞争分析",
+      "path": "reports/中国卫通/03-行业竞争分析-芒格视角.md",
+      "bucket": "公司",
+      "group": "中国卫通",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "中国卫通（601698.SH）财务估值分析",
+      "path": "reports/中国卫通/02-财务估值分析-巴菲特视角.md",
+      "bucket": "公司",
+      "group": "中国卫通",
+      "series": "",
+      "type": "估值仓位",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "中国卫通（601698.SH）商业模式分析",
+      "path": "reports/中国卫通/01-商业模式分析-段永平视角.md",
+      "bucket": "公司",
+      "group": "中国卫通",
       "series": "",
       "type": "研究",
       "date": "2026-11-12",
