@@ -1,8 +1,63 @@
 {
-  "count": 2491,
-  "published": 2281,
+  "count": 2496,
+  "published": 2286,
   "drafts": 210,
   "reports": [
+    {
+      "title": "汇川技术（300124.SZ）投资研究报告 — 四大师团队综合研判",
+      "path": "reports/汇川技术/最终报告.md",
+      "bucket": "公司",
+      "group": "汇川技术",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "汇川技术（300124.SZ）风险与管理层深度评估",
+      "path": "reports/汇川技术/04-风险管理层评估-李录视角.md",
+      "bucket": "公司",
+      "group": "汇川技术",
+      "series": "",
+      "type": "组织管理",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "汇川技术（300124.SZ）行业与竞争态势分析",
+      "path": "reports/汇川技术/03-行业竞争分析-芒格视角.md",
+      "bucket": "公司",
+      "group": "汇川技术",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "汇川技术（300124.SZ）财务估值分析报告",
+      "path": "reports/汇川技术/02-财务估值分析-巴菲特视角.md",
+      "bucket": "公司",
+      "group": "汇川技术",
+      "series": "",
+      "type": "估值仓位",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "汇川技术（300124.SZ）商业模式分析",
+      "path": "reports/汇川技术/01-商业模式分析-段永平视角.md",
+      "bucket": "公司",
+      "group": "汇川技术",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
     {
       "title": "现代牙科（03600.HK）研究报告",
       "path": "reports/现代牙科/现代牙科研究报告-20261104.md",
