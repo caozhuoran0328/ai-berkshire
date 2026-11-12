@@ -1,6 +1,6 @@
 {
-  "count": 2541,
-  "published": 2331,
+  "count": 2546,
+  "published": 2336,
   "drafts": 210,
   "reports": [
     {
@@ -492,6 +492,61 @@
       "path": "reports/保变电气/01-商业模式分析-段永平视角.md",
       "bucket": "公司",
       "group": "保变电气",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "中国巨石（600176.SH）投资研究报告 — 四大师团队综合研判",
+      "path": "reports/中国巨石/最终报告.md",
+      "bucket": "公司",
+      "group": "中国巨石",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "中国巨石（600176.SH）风险与管理层评估",
+      "path": "reports/中国巨石/04-风险管理层评估-李录视角.md",
+      "bucket": "公司",
+      "group": "中国巨石",
+      "series": "",
+      "type": "组织管理",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "中国巨石（600176.SH）行业竞争分析",
+      "path": "reports/中国巨石/03-行业竞争分析-芒格视角.md",
+      "bucket": "公司",
+      "group": "中国巨石",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "中国巨石（600176.SH）财务估值分析",
+      "path": "reports/中国巨石/02-财务估值分析-巴菲特视角.md",
+      "bucket": "公司",
+      "group": "中国巨石",
+      "series": "",
+      "type": "估值仓位",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "中国巨石（600176.SH）商业模式分析",
+      "path": "reports/中国巨石/01-商业模式分析-段永平视角.md",
+      "bucket": "公司",
+      "group": "中国巨石",
       "series": "",
       "type": "研究",
       "date": "2026-11-12",
