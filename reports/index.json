@@ -1,6 +1,6 @@
 {
-  "count": 2536,
-  "published": 2326,
+  "count": 2541,
+  "published": 2331,
   "drafts": 210,
   "reports": [
     {
@@ -272,6 +272,61 @@
       "path": "reports/怡球资源/01-商业模式分析-段永平视角.md",
       "bucket": "公司",
       "group": "怡球资源",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）投资研究报告 — 四大师团队综合研判",
+      "path": "reports/小米集团/最终报告.md",
+      "bucket": "公司",
+      "group": "小米集团",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）风险与管理层评估",
+      "path": "reports/小米集团/04-风险管理层评估-李录视角.md",
+      "bucket": "公司",
+      "group": "小米集团",
+      "series": "",
+      "type": "组织管理",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）行业竞争分析",
+      "path": "reports/小米集团/03-行业竞争分析-芒格视角.md",
+      "bucket": "公司",
+      "group": "小米集团",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）财务估值分析",
+      "path": "reports/小米集团/02-财务估值分析-巴菲特视角.md",
+      "bucket": "公司",
+      "group": "小米集团",
+      "series": "",
+      "type": "估值仓位",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）商业模式分析",
+      "path": "reports/小米集团/01-商业模式分析-段永平视角.md",
+      "bucket": "公司",
+      "group": "小米集团",
       "series": "",
       "type": "研究",
       "date": "2026-11-12",
