@@ -1,6 +1,6 @@
 {
-  "count": 2526,
-  "published": 2316,
+  "count": 2531,
+  "published": 2321,
   "drafts": 210,
   "reports": [
     {
@@ -272,6 +272,61 @@
       "path": "reports/地平线机器人/01-商业模式分析-段永平视角.md",
       "bucket": "公司",
       "group": "地平线机器人",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "吉利汽车（00175.HK）投资研究报告 — 四大师团队综合研判",
+      "path": "reports/吉利汽车/最终报告.md",
+      "bucket": "公司",
+      "group": "吉利汽车",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "吉利汽车（00175.HK）风险与管理层评估",
+      "path": "reports/吉利汽车/04-风险管理层评估-李录视角.md",
+      "bucket": "公司",
+      "group": "吉利汽车",
+      "series": "",
+      "type": "组织管理",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "吉利汽车（00175.HK）行业竞争分析",
+      "path": "reports/吉利汽车/03-行业竞争分析-芒格视角.md",
+      "bucket": "公司",
+      "group": "吉利汽车",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "吉利汽车（00175.HK）财务估值分析",
+      "path": "reports/吉利汽车/02-财务估值分析-巴菲特视角.md",
+      "bucket": "公司",
+      "group": "吉利汽车",
+      "series": "",
+      "type": "估值仓位",
+      "date": "2026-11-12",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "吉利汽车（00175.HK）商业模式分析",
+      "path": "reports/吉利汽车/01-商业模式分析-段永平视角.md",
+      "bucket": "公司",
+      "group": "吉利汽车",
       "series": "",
       "type": "研究",
       "date": "2026-11-12",
