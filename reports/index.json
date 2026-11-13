@@ -1,8 +1,63 @@
 {
-  "count": 2546,
-  "published": 2336,
+  "count": 2550,
+  "published": 2340,
   "drafts": 210,
   "reports": [
+    {
+      "title": "五粮液（000858.SZ）投资研究报告 — 四大师团队综合研判",
+      "path": "reports/五粮液/最终报告.md",
+      "bucket": "公司",
+      "group": "五粮液",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-13",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "五粮液（000858.SZ）风险与管理层评估",
+      "path": "reports/五粮液/04-风险管理层评估-李录视角.md",
+      "bucket": "公司",
+      "group": "五粮液",
+      "series": "",
+      "type": "组织管理",
+      "date": "2026-11-13",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "五粮液（000858.SZ）行业竞争分析",
+      "path": "reports/五粮液/03-行业竞争分析-芒格视角.md",
+      "bucket": "公司",
+      "group": "五粮液",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-13",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "五粮液（000858.SZ）财务估值分析",
+      "path": "reports/五粮液/02-财务估值分析-巴菲特视角.md",
+      "bucket": "公司",
+      "group": "五粮液",
+      "series": "",
+      "type": "估值仓位",
+      "date": "2026-11-13",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "五粮液（000858.SZ）商业模式分析",
+      "path": "reports/五粮液/01-商业模式分析-段永平视角.md",
+      "bucket": "公司",
+      "group": "五粮液",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-13",
+      "date_source": "正文",
+      "ticker": ""
+    },
     {
       "title": "长城汽车（601633.SH / 02333.HK）投资研究报告 — 四大师团队综合研判",
       "path": "reports/长城汽车/最终报告.md",
@@ -23574,17 +23629,6 @@
       "type": "研究",
       "date": "2026-05-16",
       "date_source": "文件名",
-      "ticker": ""
-    },
-    {
-      "title": "五粮液（000858.SZ）财务估值深度分析 -- 巴菲特视角",
-      "path": "reports/五粮液/02-财务估值分析-巴菲特视角.md",
-      "bucket": "公司",
-      "group": "五粮液",
-      "series": "",
-      "type": "估值仓位",
-      "date": "2026-05-16",
-      "date_source": "正文",
       "ticker": ""
     },
     {
